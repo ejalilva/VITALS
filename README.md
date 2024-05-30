@@ -12,7 +12,7 @@ In the interest of open science this repository has been made public but is stil
 
 ## Contact Info  
 
-Email: <LPDAAC@usgs.gov>  
+Email: ehsan.jalilvand@nasa.gov 
 Voice: +1-866-573-3222  
 Organization: Land Processes Distributed Active Archive Center (LP DAAC)¹  
 Website: <https://lpdaac.usgs.gov/>  
